@@ -188,6 +188,9 @@ h5{
     display: flex;
     justify-content: center;
 }
+.social-links a i{
+    border-radius: 50%;
+}
 a{
     width: 60px;
     font-size: 30px;
