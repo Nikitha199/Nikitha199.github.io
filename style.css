@@ -189,7 +189,7 @@ h5{
     justify-content: center;
 }
 a{
-    width: 80px;
+    width: 60px;
     font-size: 30px;
     align-items: center;
     justify-content: center;
@@ -214,6 +214,11 @@ a{
     padding: 5px;
     background-color: red;
     color:white;
+}
+.fa-github{
+    padding: 5px;
+    background-color:black;
+    color: white;
 }
 
 footer{
