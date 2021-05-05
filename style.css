@@ -58,15 +58,17 @@ body{
     display:flex;
     font-size: 20px;
     color:black;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Inconsolata', monospace;
 }
 .home-content p{
     /* width: 18%;
     margin-top: 10%;
     border: 1.5px solid yellow; */
-    font-size: 16px;
+    font-size: 18px;
     font-style: normal;
     line-height: 1.8;
+    font-family: 'Inconsolata', monospace;
+    
 }
 p a{
     line-height: 1.8;
@@ -87,7 +89,6 @@ section{
     color: #008000;
     font-size: 25px;
     font-weight: 500;
-    font-family: 'kanit', sans-serif;
 }
 .about .about.content.skills{
     height: 50vh;
@@ -104,11 +105,15 @@ h2{
     height: auto;
     color:#008000;
 }
+
 p{
     padding:5px;
-    line-height: 1.5;
+    font-size: 18px;
+    line-height: 1.8;
     margin-left: 2%;
     color:black;
+    font-family:'Inconsolata', monospace;
+    
     
 
 }
@@ -234,18 +239,19 @@ a1{
     }
     .home-content p{
         text-align: justify;
-        letter-spacing: 2px;
+        
     }
     .about-content  p{
         text-align: justify;
-        line-height: 1.5;
-        letter-spacing: 2px;
+        
+        
+        
     }
     .navbar ul  {
         display: none;
     }
     .about  ul{
-        margin-left: 30px;
+        margin-left: 40px;
 }
 }
     
