@@ -199,29 +199,24 @@ a{
     text-decoration: none;
 }
 .fa-twitter{
-    padding: 5px;
-    background:#55ACEE;
-    color: white;
+    font-size: 30px;
+    color:#00ACEE;
 }
 .fa-free-code-camp{
-    padding: 5px;
-    background-color:black;
-    color:#fff;
+    font-size:30px;
+    color:green;
 }
 .fa-linkedin-in{
-    padding: 5px;
-    background-color: #007bb5;
-    color:white;
+    font-size: 30px;
+    color:#0077b5;
 }
 .fa-instagram{
-    padding: 5px;
-    background-color: red;
-    color:white;
+    font-size:30px;
+    color: #fd1d1d;;
 }
 .fa-github{
-    padding: 5px;
-    background-color:black;
-    color: white;
+    font-size: 30px;
+    color: #000000;
 }
 
 footer{
