@@ -239,10 +239,12 @@ a1{
     }
     .home-content p{
         text-align: justify;
+        line-height: 1.5;
         
     }
     .about-content  p{
-        text-align: justify;
+        text-align:justify;
+        line-height: 1.5;
         
         
         
