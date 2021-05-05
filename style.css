@@ -45,7 +45,7 @@ body{
     
 }
 .navbar .menu li a{
-    color:green;
+    color:#000000;
     font-size: 18px;
     font-weight: 500;
     margin-left: 25px;
@@ -84,10 +84,10 @@ section{
     position:relative;
     text-align: center;
     line-height: 2.5;
-    color: green;
+    color: #008000;
     font-size: 25px;
     font-weight: 500;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'kanit', sans-serif;
 }
 .about .about.content.skills{
     height: 50vh;
@@ -102,7 +102,7 @@ h2{
     font-style:initial;
     margin-left: 2%;
     height: auto;
-    color:green;
+    color:#008000;
 }
 p{
     padding:5px;
@@ -115,7 +115,7 @@ p{
 h3{
     font-style: initial;
     margin-left: 3%;
-    color:green;
+    color:#008000;
 }
 ul{
    list-style-position: inside;
@@ -133,7 +133,7 @@ h4{
     text-align: left;
     height: 1px;
     margin-left: 3%;
-    color:green;
+    color:#008000;
     font-style: normal;
     font-size: 25px;
     font-weight: 500;
@@ -177,7 +177,7 @@ h5{
     text-align: left;
     margin-left: 4%;
     font-size: 20px;
-    color:green;
+    color:#008000;
     line-height: 3.5;
 }
 
@@ -231,6 +231,15 @@ a1{
     body {
       background-color: pink;
       
+    }
+    .home-content p{
+        text-align: justify;
+        letter-spacing: 2px;
+    }
+    .about-content  p{
+        text-align: justify;
+        line-height: 1.5;
+        letter-spacing: 2px;
     }
     .navbar ul  {
         display: none;
