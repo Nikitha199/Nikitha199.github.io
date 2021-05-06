@@ -137,7 +137,7 @@ h4{
     position:relative;
     text-align: left;
     height: 1px;
-    margin-left: 3%;
+    margin-left: 1%;
     color:#008000;
     font-style: normal;
     font-size: 25px;
@@ -161,7 +161,7 @@ h4{
     display: flex;
     font-weight: 500;
     line-height: 2.5;
-    margin-left: 3%;
+    margin-left: 1%;
     font-size: 18px;
     align-items: center;
     justify-content: space-between;
@@ -169,7 +169,7 @@ h4{
 .line{
     height:6px;
     width:100%;
-    margin-left: 3%;
+    margin-left: 1%;
     background: lightgrey;
     position:relative;
 }
@@ -238,17 +238,13 @@ a1{
       
     }
     .home-content p{
-        text-align: justify;
+        text-align: center;
         line-height: 1.5;
         
     }
     .about-content  p{
-        text-align:justify;
-        
-        
-        
-        
-    }
+        text-align:center;
+        }
     .navbar ul  {
         display: none;
     }
