@@ -28,6 +28,7 @@ body{
 }
 
 .navbar .logo a{
+    margin-left: 15%;
     text-decoration: none;
     color: #f81e8b;
     text-shadow: #f81e8b;
@@ -225,7 +226,7 @@ footer{
 a1{
     font-size:16px;
 }
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 600px) {
     body {
       background-color: pink;
       
