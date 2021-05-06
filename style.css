@@ -28,7 +28,6 @@ body{
 }
 
 .navbar .logo a{
-    margin-left: 15%;
     text-decoration: none;
     color: #f81e8b;
     text-shadow: #f81e8b;
@@ -76,6 +75,10 @@ p a{
     font-size: 16px;
     color: red;
 }
+
+section{
+    padding:50px 0;
+}
 .about, .skills,  footer, .social-links{
     font-family: 'Poppins', sans-serif;
 }
@@ -91,8 +94,11 @@ p a{
     height: 50vh;
     width:100px;
 }
+section{
+    padding:40px;
+}
 h2{
-    font-family: 'Kanit', sans-serif;
+    padding:5px;
     font-size: 20px;
     font-style:initial;
     margin-left: 2%;
@@ -101,6 +107,7 @@ h2{
 }
 
 p{
+    padding:5px;
     font-size: 18px;
     line-height: 1.8;
     margin-left: 2%;
@@ -112,9 +119,8 @@ p{
 }
 h3{
     font-size: 20px;
-    font-family: 'Kanit', sans-serif;
     font-style: initial;
-    margin-left: 2%;
+    margin-left: 3%;
     color:#008000;
 }
 ul{
@@ -126,7 +132,9 @@ ul{
    
     
 }
-
+section{
+    padding: 30px 0;
+}
 h4{
     position:relative;
     text-align: left;
