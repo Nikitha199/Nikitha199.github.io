@@ -239,6 +239,9 @@ a1{
       background-color: pink;
       
     }
+    .navbar .logo a{
+        margin-left: 17%;
+    }
     .home-content p{
         text-align: center;
     }
