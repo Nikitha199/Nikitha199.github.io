@@ -92,7 +92,7 @@ p a{
     width:100px;
 }
 h2{
-    
+    font-family: 'Kanit', sans-serif;
     font-size: 20px;
     font-style:initial;
     margin-left: 2%;
@@ -111,6 +111,7 @@ p{
 
 }
 h3{
+    font-family: 'Kanit', sans-serif;
     font-style: initial;
     margin-left: 2%;
     color:#008000;
@@ -223,7 +224,7 @@ footer{
 a1{
     font-size:16px;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 400px) {
     body {
       background-color: pink;
       
